@@ -1,6 +1,8 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
+
+
 namespace LeaveManagementSystem
 {
     public class BundleConfig

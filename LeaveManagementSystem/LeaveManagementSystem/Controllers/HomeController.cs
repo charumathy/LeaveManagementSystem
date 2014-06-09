@@ -12,5 +12,10 @@ namespace LeaveManagementSystem.Controllers
         {
             return View();
         }
+
+        public ActionResult TestLogin()
+        {
+            return View();
+        }
     }
 }
